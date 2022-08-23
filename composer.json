@@ -1,0 +1,15 @@
+{
+    "name": "georges/eval_php_twitter",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AurelienGEORGES",
+            "email": "aurelien.georges30@gmail.com"
+        }
+    ],
+    "require": {}
+}
